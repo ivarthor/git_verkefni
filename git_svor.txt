@@ -1,1 +1,8 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd   vísar á möppu
+	cd ~ vísar á ~
+	ls   gefur upplýsingar
+	pwd  sýnir hvaða drifi forritið er að vinna í
+	mkdir gerir directory
