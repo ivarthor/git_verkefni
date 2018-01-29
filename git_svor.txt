@@ -1,4 +1,4 @@
-Git spurningar og svör
+﻿Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd   vísar á möppu
@@ -6,3 +6,13 @@ Git spurningar og svör
 	ls   gefur upplýsingar
 	pwd  sýnir hvaða drifi forritið er að vinna í
 	mkdir gerir directory
+	
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone   gerir leið fyrir þig til að vinna í repository
+	git log     sýnir login yfir því hverju þú ert búinn að committa
+	git status  sýnir þér skjölin sem þú ert búinn að breyta og þeim sem að þú átt eftir að breyta
+	git diff    sýnir breytingar
+	git checkout leyfir þér að breyta mistökum
+	
+
