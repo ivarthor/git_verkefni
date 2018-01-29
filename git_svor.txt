@@ -34,3 +34,5 @@
 
 
 8.	Hvenær er sniðugt að nota greinar (branches)? Þegar það eru margir að vinna á einu verkefni en samt öðruvísi parta af þessu verkefni, þá er hægt að branch-a út og splitta aðeins verkefninu upp, síðan er hægt að merge-a það saman seinna. 
+
+9.	Hver fann upp GIT?    Linus Torvalds, hann gerði líka linux
