@@ -38,3 +38,7 @@
 9.	Hver fann upp GIT?    Linus Torvalds, hann gerði líka linux
 
 10.	Hvar er GIT helst notað?   í forritun og sem geymslu forrit
+
+
+
+Ívar Þór Þórðarson
