@@ -23,3 +23,6 @@
 
 
 4. 	Hvað er útgáfustýring (e.version control)?  Stýrir breytingum á skjölum  og stórum vefsíðum
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?  Það er hægt að léttilega gera verkefni með öðrum.
