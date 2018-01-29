@@ -14,5 +14,10 @@
 	git status  sýnir þér skjölin sem þú ert búinn að breyta og þeim sem að þú átt eftir að breyta
 	git diff    sýnir breytingar
 	git checkout leyfir þér að breyta mistökum
+
 	
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff                 	sýnir breytingar
+	b) git diff --staged 			sýnir breytingar eftir git add
+	c) git diff commit1 commit2 	sýnir munin á milli commit1 og commit2
 
