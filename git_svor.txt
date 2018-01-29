@@ -21,3 +21,5 @@
 	b) git diff --staged 			sýnir breytingar eftir git add
 	c) git diff commit1 commit2 	sýnir munin á milli commit1 og commit2
 
+
+4. 	Hvað er útgáfustýring (e.version control)?  Stýrir breytingum á skjölum  og stórum vefsíðum
